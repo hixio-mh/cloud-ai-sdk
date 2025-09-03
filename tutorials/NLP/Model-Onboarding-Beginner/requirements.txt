@@ -1,8 +1,8 @@
-onnx==1.17.0
+onnx==1.19.0
 optimum
 numpy==1.23.4
 onnxruntime
-torch===2.6.0
-pillow==8.3.2
+torch===2.8.0
+pillow==10.3.0
 onnxsim
 /opt/qti-aic/dev/lib/x86_64/qaic-0.0.1-py3-none-any.whl
